@@ -67,8 +67,8 @@ circle = Circle()
 circle.calculate_area()
 
 ## Output
-Rectangle Area: 15
-Circle Area: 50.27
+<img width="1919" height="791" alt="image" src="https://github.com/user-attachments/assets/9c03ad10-d932-4d3d-84d7-1221d7002792" />
+
 
 ## Result
 Thus an **abstract class** named `Shape` with an **abstract method** `calculate_area`, and implement this method in two subclasses: `Rectangle` and `Circle`is successful.
@@ -113,8 +113,8 @@ class Rectangle:
 rect = Rectangle()
 
 ## Output
-Rectangle Length: 5
-Rectangle Breadth: 3
+<img width="1916" height="797" alt="image" src="https://github.com/user-attachments/assets/e6c55307-d58f-4f4c-9efb-b1f93522c654" />
+
 
 ## Result
 Thus the python program is executed successfully.
@@ -157,8 +157,8 @@ for obj in [obj_goldfish, obj_hammerhead]:
     obj.type()
 
 ## OUTPUT
-fish
-shark
+<img width="1917" height="791" alt="image" src="https://github.com/user-attachments/assets/effcad31-9d73-4a99-9215-9dbf63c30fab" />
+
 
 ## RESULT
 Thus the code is executes successfully.
@@ -208,7 +208,8 @@ print(ob1 < ob2)
 
 ## Output
 
-ob1 is less than ob2
+<img width="1914" height="791" alt="image" src="https://github.com/user-attachments/assets/f634fc2e-c275-452c-a45d-f574f20835b2" />
+
 
 ## Result
 Thus the result is executed successfully with any error.
@@ -272,10 +273,9 @@ func(m)
 
 
 ## Output
-Vegetable
-Green
-Fruit
-Yellow
+
+<img width="1919" height="790" alt="image" src="https://github.com/user-attachments/assets/ff414df9-fe62-427a-a444-863cc915e116" />
+
 
 ## Result
 Thus the output is verified successfully.
